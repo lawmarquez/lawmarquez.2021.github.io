@@ -1,0 +1,19 @@
+.reason {
+    margin-left: 3%;
+}
+h2{
+    text-align: center;
+}
+body {
+    font-family: Arial,Helvetica,sans-serif;
+	line-height: 1.6;
+}
+fieldset {
+	background-color: #f4f4f4;
+}
+button {
+    margin: auto;
+    background: #333;
+    color: #fff;
+}
+
