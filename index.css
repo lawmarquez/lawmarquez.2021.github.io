@@ -1,6 +1,9 @@
 .reason {
     margin-left: 3%;
 }
+.dream {
+    margin-left: 2.5%;
+}
 h2{
     text-align: center;
 }
@@ -10,10 +13,5 @@ body {
 }
 fieldset {
 	background-color: #f4f4f4;
-}
-button {
-    margin: auto;
-    background: #333;
-    color: #fff;
 }
 
